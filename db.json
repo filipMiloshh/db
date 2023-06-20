@@ -1,11 +1,11 @@
 
 {
   "posts": [
-    { "id": 1, "title": "Stock Market", "image": "https://postimg.cc/ygnBrznJ" },
-    { "id": 2, "title": "Limbs", "image": "https://postimg.cc/bGxqknt9"},
-    { "id": 3, "title": "Sight", "image": "https://postimg.cc/f3nwVCJb"},
-    { "id": 4, "title": "Stabilizator", "image": "https://postimg.cc/N5nGcBtm"},
-    { "id": 5, "title": "Stabilizator", "image": "https://postimg.cc/ftMDKb7n"}
+    { "id": 1, "title": "Stock Market / Mutual Funds", "image": "https://postimg.cc/ygnBrznJ" },
+    { "id": 2, "title": "Cryptocurrency", "image": "https://postimg.cc/bGxqknt9"},
+    { "id": 3, "title": "Commodites", "image": "https://postimg.cc/f3nwVCJb"},
+    { "id": 4, "title": "Debts / Government bonds / Fixed Income Deposits", "image": "https://postimg.cc/N5nGcBtm"},
+    { "id": 5, "title": "Real Estate Investment", "image": "https://postimg.cc/ftMDKb7n"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
